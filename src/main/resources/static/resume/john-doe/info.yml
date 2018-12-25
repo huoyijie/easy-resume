@@ -1,0 +1,88 @@
+profile:
+  name: John Doe
+  enName: John Doe
+  avatarUrl: /resume/john-doe/id.jpg
+  introduce: Hi, my name is John Doe. I"m just about the most boring type of person you could possibly imagine. I like collecting leaves from the tree in my back yard and documenting each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
+  motto: Software Developer
+
+contact:
+  email: john.doe@email.com
+  phone: 0123 456789
+  liveIn: 1234 Broadway,New York
+  github: https://github.com/johnyD
+
+educations:
+- degree: Master of Arts
+  duration: March 2012 - December 2013
+  college: Major in Hacking and Computer Penetration, University A, New York, USA.
+  website: https://example.com
+
+experiences:
+- company: Company A
+  position: Developer
+  duration: since January 2016
+  desc: Programming and watching cute cat videos.
+  website: https://example.com
+
+- company: Company B
+  position: Frontend Developer
+  duration: January 2015 - December 2015
+  desc: Fulfillment of extremely important tasks.
+
+- company: Company C
+  position: Trainee
+  duration: March 2014 - December 2014
+  desc: Making coffee and baking cookies.
+
+# skill level goes 0 to 100
+skills:
+- name: English
+  level: 90
+- name: Java(8/9/10/11)
+  level: 90
+- name: HTTP(s)
+  level: 90
+- name: Spring Framework
+  level: 90
+- name: Spring Boot
+  level: 85
+- name: Spring Cloud
+  level: 85
+- name: Spring WebMVC
+  level: 90
+- name: Spring Webflux
+  level: 80
+- name: Mybatis
+  level: 85
+- name: Mysql
+  level: 85
+- name: Redis
+  level: 85
+- name: Tomcat
+  level: 85
+- name: Netty
+  level: 80
+- name: Micro Service
+  level: 90
+- name: HTML5
+  level: 85
+- name: CSS
+  level: 85
+- name: JavaScript
+  level: 85
+- name: Bootstrap
+  level: 85
+- name: JQuery
+  level: 85
+- name: Python
+  level: 85
+- name: Django
+  level: 85
+- name: Scrapy
+  level: 75
+- name: Node.js
+  level: 75
+- name: Docker
+  level: 70
+- name: Keras
+  level: 70

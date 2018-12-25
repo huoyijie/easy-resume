@@ -1,0 +1,9 @@
+logging:
+  level:
+    web: DEBUG
+spring:
+  freemarker:
+    charset: UTF-8
+    suffix: .ftl
+server:
+  port: 8000
