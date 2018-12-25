@@ -1,6 +1,10 @@
 # easy-resume
 简历模板，可以快速制作个性化简历，[点击这里可以看效果](https://huoyijie.github.io/easy-resume/)
 
+
+![Easy Resume](img/easy-resume.png)
+
+
 ![bootstrap](img/bootstrap.png)
 
 
