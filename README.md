@@ -7,7 +7,7 @@ git clone git@github.com:huoyijie/easy-resume.git
 
 ## 2.启动IDE（idea 15)，编译运行
 
-## 3.打开浏览器访问http://localhost:8000/rt-bootstrap-index/john-doe查看demo简历
+## 3.查看demo简历，打开浏览器访问http://localhost:8000/rt-bootstrap-index/john-doe
 
 ## 4.生成自己的简历
 
